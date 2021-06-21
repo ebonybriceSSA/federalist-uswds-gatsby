@@ -1,5 +1,5 @@
 ---
-title: Document with sidenav
+title: Document with sidenav1
 sidenav: true
 ---
 
